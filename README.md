@@ -3,7 +3,7 @@
 
 ## **1. System Architecture:**
 ### **Hardware:**
-- Nvidia Jetson nano, as mentioned in the project document
+- Nvidia Jetson nano, as mentioned in the project document.
 - A capable machine to install the above device in, with at least 16GB of ram for seamless training of the model and a 6/8 core CPU with an SSD.
 - A Camera which will be used to capture the images or videos of the operation area
 - A display to monitor and view the captured images/video and to provide real-time feedback
@@ -65,5 +65,3 @@ The Nvidia Jetson Nano will be used at the heart of the computer vision system. 
 - Reflections, lightning, position can pose as challenges in the system, as theyre never constant, this could be counteracted by adding an additional check during training for reflective surfaces or training the model on a dataset which contains them.
 - Human hands can vary in size, colour, shape, etc, can prove to be a limitation.
 - Real-world deployment may face challenges like dust, vibrations, or extreme temperatures, which could affect the hardware and/or the sensors.
-
-
