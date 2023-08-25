@@ -1,5 +1,6 @@
 # Assignment Project-1
 ## Hand Detection for Safety in Machine Operation
+### Objective: Develop a vision system to detect and prevent accidents by identifying human hands in proximity to critical machine parts.
 
 ## **1. System Architecture:**
 ### **Hardware:**
